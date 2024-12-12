@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked error in HTML: the misspelling of 'innerHTML'. The `bug.html` file contains the erroneous code, while `bugSolution.html` provides the corrected version.  The error is subtle, but it can lead to unexpected behavior and prevent dynamic content from being properly displayed.
